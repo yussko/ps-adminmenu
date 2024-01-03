@@ -20,7 +20,7 @@
 3. Scripti ensure edin. Ox_lib'in ps-adminmenu'ün üstünde olduğuna emin oldun.  
 4. Ayarlarınızı `shared/config.lua`'den yapabilirsiniz.
 
-Kurulum için daha detaylı bir video bırakıyorum: [here](https://www.youtube.com/watch?v=aez5RIi8db8&ab_channel=Kamaryn)
+Kurulum için daha detaylı bir [video](https://www.youtube.com/watch?v=aez5RIi8db8&ab_channel=Kamaryn) bırakıyorum:
    
 ## Permissions Ayarı
 Kendinize perm vermek için server.cfg'e , add_principal identifier.fivem:565139 qbcore.god şeklinde eklemeniz lazım. 
