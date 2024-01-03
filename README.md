@@ -1,5 +1,5 @@
 # ps-adminmenu
-[OK1ez](https://github.com/OK1ez) [The Project Sloth Team] tarafından oluşturulan ve tarafından geliştirilen Admin Menüsü kullanıcı dostu ve sezgiseldir. Benim tarımdan ise sadece Türkçeleştirilmesi yapılmıtştır.
+[OK1ez](https://github.com/OK1ez) tarafından oluşturulan ve geliştirilen Admin Menüsü kullanıcı dostu ve sezgiseldir. Benim tarımdan ise sadece Türkçeleştirilmesi yapılmıtştır.
 
 # Tanıtım
 <img src="https://media.discordapp.net/attachments/1188934972673896498/1189182926559117402/image.png?ex=65a67667&is=65940167&hm=5c42153409557cabfdcc0c97fb0035ead866a7c432b72af7cba150829b6b4231&=&format=webp&quality=lossless&width=351&height=683" width="300">
@@ -8,7 +8,7 @@
 
 # Dil değiştirme.
 - Bunu `setr ox:locale tr`, `server.cfg`'e yapıştırın.
--  `tr`i dilinize göre değiştirebilirsiniz.
+-  `tr`'i dilinize göre değiştirebilirsiniz.
   
 # Depedency
 1. [qb-core](https://github.com/qbcore-framework/qb-core)
@@ -38,7 +38,6 @@ add_principal identifier.fivem:565139 qbcore.mod
 ## Log Ayarlama
 1. Discord webhooku istedğinizi bir kanala ekleyin.
 2. `['ps-adminmenu'] = 'discord webhook'`, u  `qb-smallresource/server/logs.lua`'a ekleyin. 
-`['ps-adminmenu'] = 'discord webhook'`
 3. `'discord webhook'`,'a webhook linkini yapıştırıdın.
 
 # Credits
