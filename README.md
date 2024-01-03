@@ -22,7 +22,7 @@
 
 Kurulum için daha detaylı bir video bırakıyorum: [here](https://www.youtube.com/watch?v=aez5RIi8db8&ab_channel=Kamaryn)
    
-## Permissions
+## Permissions Ayarı
 Kendinize perm vermek için server.cfg'e , add_principal identifier.fivem:565139 qbcore.god şeklinde eklemeniz lazım. 
 Script Fivem İD ile çalışıyor, Tx Admin'den alabilirsiniz.
 
